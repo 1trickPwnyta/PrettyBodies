@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Pretty Bodies</name>
+	<author>1trickPwnyta</author>
+	<packageId>prettybodies.1trickPwnyta</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>
+Replaces the vanilla body texture with more realistic yet censored textures.
+	</description>
+	<url>https://github.com/1trickPwnyta/PrettyBodies</url>
+</ModMetaData>
